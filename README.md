@@ -14,10 +14,12 @@
 
 - [A successful XML naming convention](https://jeroenmols.com/blog/2016/03/07/resourcenaming/)
 Notes: I am not so agree in some conventions used in the article.
-- 1. I don't see the point to use "all" as part of the main. For
+
+   - I don't see the point to use "all" as part of the main. For
 me does not include more helpful  information. If the resource
 is used 1 or 50 times should not makes any differences in the naming.
-- 2. As part of the adoption of "Project and Code Guidelines by ribot"
+
+   - As part of the adoption of "Project and Code Guidelines by ribot"
 I like to use <WHAT> part in resources like drawables. The reason is
 because the IDE order the folder by the name and apart to give more
 clarity, all the drawable would be ordered by type.
