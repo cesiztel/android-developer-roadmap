@@ -6,6 +6,7 @@
 /.idea/modules.xml
 /.idea/workspace.xml
 /.idea/sonarlint
+/.idea/misc.xml
 .DS_Store
 /build
 /captures
