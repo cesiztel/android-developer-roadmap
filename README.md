@@ -29,6 +29,8 @@ clarity, all the drawable would be ordered by type.
 
 - Reading [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming/)
 
-- [x] Chapter 1. Your first Android applications
-- [x] Chapter 2. Android and Model-View-Controller
-- [x] Chapter 3. The Activity Lifecycle 
+- [x] Chapter 1. Your first Android applications.
+- [x] Chapter 2. Android and Model-View-Controller.
+- [x] Chapter 3. The Activity Lifecycle.
+- [x] Chapter 4. Debugging Android Apps.
+- [ ] Chapter 5. Your Second Activity.
