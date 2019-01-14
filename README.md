@@ -33,4 +33,6 @@ clarity, all the drawable would be ordered by type.
 - [x] Chapter 2. Android and Model-View-Controller.
 - [x] Chapter 3. The Activity Lifecycle.
 - [x] Chapter 4. Debugging Android Apps.
-- [ ] Chapter 5. Your Second Activity.
+- [x] Chapter 5. Your Second Activity.
+- [x] Chapter 6. Android SDK Versions and Compatibility.
+- [ ] Chapter 7. UI Fragments and the Fragment Manager.
