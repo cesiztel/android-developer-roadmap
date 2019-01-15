@@ -29,4 +29,4 @@ clarity, all the drawable would be ordered by type.
 
 - Reading [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming/)
 
-- [====>................] 17% - Current: Chapter 7
+[====>................] 20.5% - Current: Chapter 8
