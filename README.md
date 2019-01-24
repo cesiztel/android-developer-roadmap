@@ -43,7 +43,7 @@ oriented to interface maybe is too overthinking.
 
 - Reading [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming/)
 
-  48% - Current: Chapter 16
+  54% - Current: Chapter 19
 
 - Learning MVP Pattern
 
