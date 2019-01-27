@@ -24,6 +24,12 @@ I like to use <WHAT> part in resources like drawables. The reason is
 because the IDE order the folder by the name and apart to give more
 clarity, all the drawable would be ordered by type.
 
+### Layouts
+
+#### ConstraintLayouts
+
+- [Android - Building a layout from Scratch using ConstraintLayout - and Q&A #RiggarooLive] https://www.youtube.com/watch?v=h1LHzObflwo
+
 
 ### Design Patterns
 
