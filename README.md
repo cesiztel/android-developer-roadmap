@@ -53,6 +53,10 @@ oriented to interface maybe is too overthinking.
 
 - Learning MVP Pattern
 
+### Productivity
+
+- [An #androidDev collection of Live Templates for Android Studio](https://github.com/keyboardsurfer/idea-live-templates)
+
 ### Pending
 
 Resources pending the review.
