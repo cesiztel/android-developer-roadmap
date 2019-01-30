@@ -4,9 +4,13 @@
 
 ### Books
 
-#### Android specific
+#### Android specific (Java & Kotlin)
 
 - [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming/)
+
+- [Android Development with Kotlin](https://www.packtpub.com/application-development/android-development-kotlin)
+
+- [Kotlin programming: The Big Nerd Ranch Guide](https://www.amazon.es/Kotlin-Programming-Nerd-Ranch-Guide/dp/0135161630/ref=sr_1_1?ie=UTF8&qid=1548835084&sr=8-1&keywords=kotlin+programming)
 
 ### Project Guidelines & conventions
 
@@ -47,9 +51,13 @@ oriented to interface maybe is too overthinking.
 
 ## Personal progress
 
-- Reading [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming/)
+- Reading  - Android Programming: The Big Nerd Ranch Guide
 
   54% - Current: Chapter 19
+
+- Reading - Kotlin programming: The Big Nerd Ranch Guide
+
+  7% - Current: Chapter 2
 
 - Learning MVP Pattern
 
@@ -57,11 +65,17 @@ oriented to interface maybe is too overthinking.
 
 - [An #androidDev collection of Live Templates for Android Studio](https://github.com/keyboardsurfer/idea-live-templates)
 
+
+### Articles
+
+- [Splash Screens the Right Way](https://www.bignerdranch.com/blog/splash-screens-the-right-way/)
+
 ### Pending
 
 Resources pending the review.
 
-- [ ] Kotlin
+- https://kotlinlang.org/docs/reference/coding-conventions.html
+- https://developer.android.com/kotlin/style-guide
 - [ ] Code labs Google. https://codelabs.developers.google.com/?cat=Android
 - [ ] [Video. Conference talk about activity Lifecycle](https://youtu.be/Lhk8WSUSw8g)
 - [ ] Patterns: MVP
