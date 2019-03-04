@@ -12,6 +12,8 @@
 
 - [Kotlin programming: The Big Nerd Ranch Guide](https://www.amazon.es/Kotlin-Programming-Nerd-Ranch-Guide/dp/0135161630/ref=sr_1_1?ie=UTF8&qid=1548835084&sr=8-1&keywords=kotlin+programming)
 
+- [Kotlin for Android developers](https://leanpub.com/kotlin-for-android-developers)
+
 ### Project Guidelines & conventions
 
 - [Project and Code Guidelines by ribot](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
