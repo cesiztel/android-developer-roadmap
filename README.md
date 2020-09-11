@@ -1,5 +1,22 @@
 # Android Developer Roadmap
 
+## Starting your Android development journey
+
+To start you should understand 2 fundamental Android concepts: Android app can have multiple entry points (Main activiyty, notifications, broadcast recivers) and your apps should adapt to different device configurations (screen size, specif hardware). Do not worry! Android provide you the API's and tools to apply those two concepts easily.
+
+### First Android App
+
+This tutorial walks through the following concepts:
+
+- First look of the code of an Activity.
+- First look to the main components in an Android project (project structure, folders and files).
+- Basic layout design. Definition of a constraint layout, constraints, attribute definition
+- Intro to the communication between activities
+
+Resource: 
+* Official: [Android developer guidelines](https://developer.android.com/training/basics/firstapp)
+* Code of the app in this repo: [1-first-app](./1-first-app)
+
 ## Resources 
 
 ### Books
